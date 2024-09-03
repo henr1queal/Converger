@@ -1,0 +1,20 @@
+- Aviso de notas a vencer 3 dias antes;
+- Cronjob para notificações;
+
+
+OK - Adição de notas fiscais no sistema, confirmar pagamento;
+OK - Salvar campo emissão da nota ao subir pdf; Salvar campo data recebimento ao declarar como pago;
+OK - Financeiro - Definir caixa / Resumo;
+OK - Setar status do evento (aberto, em andamento, finalizado, cancelado);
+OK - Estilo de login, cadastro e recuperação de senha;
+OK - Definir página raiz do sistema nas rotas e redirecionar login;
+OK - Aviso de sucesso ou erro em todas as páginas;
+OK - Corrigir coluna dos fornecedores/parceiro/vendedor
+OK - Listar palestrantes, remover, setar valor, pagamento efetuado;
+OK - Máscara de moeda nos campos;
+OK - Vendedor, fornecedor e parceiro só podem ter recebido o pagamento caso tenha um valor, vide palestrantes;
+OK - Definir validações de permissões nas rotas a depender do position_id do user (tentar armazenar em cookies e atualizar a cada hora);
+TO DO - Validações de formulários;
+
+Cancelado - Fazer cobrança por e-mail para o cliente (integrar o mailchimp);
+Pendente (Paes) - Integração google calendar;
